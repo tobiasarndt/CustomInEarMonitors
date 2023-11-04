@@ -19,6 +19,10 @@ These iems have 6 balanced armature drivers per side. Consisting of two subwoofe
 
 Many thanks to the community in the custom iem therad in the [headfi forum](https://www.head-fi.org/threads/home-made-iems.430688). The specific design used combines the [MASM 5Av1](https://www.head-fi.org/threads/home-made-iems.430688/post-16515847) by Theodoric Paddlefoot with the [Zobelception Circuit](https://www.head-fi.org/threads/home-made-iems.430688/post-15911687) by dhruvmeena96. [Thore Frenzel](https://youtu.be/qpsfMe0-fM8?si=2Ux9jmNkCwyAL-JH) has a greap video on how to get to a shell from the 3D-Scan of the impressions. To get the tubes fit nicely, draw splines and used the measure tool to check their length. When the lengths are correct, sweep a circle of the right diamater along the path to get the tube.
 
+## Circuit Diagram
+<img width="527" alt="image" src="https://github.com/tobiasarndt/CustomInEarMonitors/assets/54204861/2f38d097-1813-4e64-8dde-3b1b856dc267">
+
+
 ## Materials
 
 To build iems you need a 3D-scan of your ear. Audiologists can make an impression of your ear for a small fee. To digitalize it, either find someone with a scanner, or try scanning it using photogrammetry.
